@@ -15,12 +15,12 @@ function Footer() {
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div>
                 <h3>
-                  <span style={{ color: "#5266FA" }}>Blue</span>Bus
+                  <span style={{ color: "#5266FA" }}>Shivam</span>Tourest
                 </h3>
                 <p className="mb-30 footer-desc">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad
-                  soluta facilis eos quia optio iusto odit atque eum tempore,
-                  quisquam officiis vero veniam hic,
+                We the Balaji group of travels provides you the best and luxury comfortable travel services.
+                We maintain the hygene and customers health and security is our top priority
+
                 </p>
               </div>
             </div>
@@ -81,7 +81,7 @@ function Footer() {
           <div className="d-flex justify-content-center">
             <div className="copyright">
               <p className={styles.companyinfo}>
-                2023 ibibogroup All rights reserved company.
+                 All rights reserved  Made with <span> &hearts; </span>.
               </p>
             </div>
           </div>

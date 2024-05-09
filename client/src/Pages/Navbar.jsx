@@ -16,14 +16,14 @@ const Navbar = () => {
     success("Logout Successfully");
   };
   return (
-    <nav className="navbar navbar-dark navbar-expand-lg bg-body-tertiary text-bg-primary">
+    <nav className="navbar navbar-dark navbar-expand-lg bg-body-tertiary  text-bg-danger">
       <div className="container-fluid">
         <a
           className="navbar-brand"
           style={{ cursor: "pointer" }}
           onClick={() => navigate("/")}
         >
-          BlueBus
+       Wanderlust Journeys
         </a>
         <button
           className="navbar-toggler"
@@ -55,6 +55,16 @@ const Navbar = () => {
                 onClick={() => navigate(`/myticket`)}
               >
                 My Tickets
+              </a>
+            </li>
+
+            <li className="nav-item">
+              <a
+                className="nav-link active"
+                style={{ cursor: "pointer" }}
+                onClick={() => navigate(`/myticket`)}
+              >
+                About
               </a>
             </li>
           </ul>

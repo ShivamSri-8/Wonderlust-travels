@@ -306,7 +306,7 @@ function Slider() {
           <div>
             <h4>Introducing Safety+ Program</h4>
             <p>
-              A unique certification program that ensures safety in all buses
+              A unique certification program that ensures safety in all our buses
             </p>
           </div>
           <div>

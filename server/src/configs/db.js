@@ -10,10 +10,7 @@
 const mongoose = require("mongoose");
 
 let connect = () => {
-  return mongoose.connect(
-    "mongodb+srv://raman:raman@cluster0.fm7rpoi.mongodb.net/ecom",
-    { useNewUrlParser: true }
-  );
+  return mongoose.connect("mongodb://localhost:27017/travels");
 };
 
 module.exports = connect;

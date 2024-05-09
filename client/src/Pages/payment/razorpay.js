@@ -24,7 +24,7 @@ export const initPayment = (
     amount: orderDetails.amount,
     currency: orderDetails.currency,
     image: logo,
-    name: "Blue Bus",
+    name: "Shivam Travels",
     description: "Thanks For Booking, Happy Journey!",
 
     prefill: {

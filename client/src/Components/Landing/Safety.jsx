@@ -28,7 +28,7 @@ const Safety = () => {
       </div>
       <div className={styles.writingConatiner}>
         <h2>Introducing Safety+</h2>
-        <h3>Opt to Travel Safe with redBus</h3>
+        <h3>Opt to Travel Safe with wonderlust journeys</h3>
         <span
           style={{
             color: "blue",
